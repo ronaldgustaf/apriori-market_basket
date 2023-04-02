@@ -46,7 +46,7 @@ Total Duration: 131.496428 s (5 times run)
 ## Outputs
 
 The result should output this:
-
+-------------------------------------------------
 min_freq = 0.0001 results:
 Number of size-1 frequent patterns= 731
 Number of size-2 frequent patterns= 8200
