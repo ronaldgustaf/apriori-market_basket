@@ -45,44 +45,44 @@ Total Duration: 131.496428 s (5 times run)
 
 ## Outputs
 
-The result should output this:
+> The result should output this:
 -------------------------------------------------
-min_freq = 0.0001 results:
-Number of size-1 frequent patterns= 731
-Number of size-2 frequent patterns= 8200
-Number of size-3 frequent patterns= 8201
-Number of size-4 frequent patterns= 1828
-Number of size-5 frequent patterns= 100
-Total number of frequent patterns = 19060
-=================================================
-min_freq = 0.0002 results:
-Number of size-1 frequent patterns= 592
-Number of size-2 frequent patterns= 4564
-Number of size-3 frequent patterns= 2831
-Number of size-4 frequent patterns= 359
-Number of size-5 frequent patterns= 5
-Total number of frequent patterns = 8351
-=================================================
-min_freq = 0.0003 results:
-Number of size-1 frequent patterns= 527
-Number of size-2 frequent patterns= 3080
-Number of size-3 frequent patterns= 1384
-Number of size-4 frequent patterns= 134
-Number of size-5 frequent patterns= 1
-Total number of frequent patterns = 5126
-=================================================
-min_freq = 0.0004 results:
-Number of size-1 frequent patterns= 474
-Number of size-2 frequent patterns= 2258
-Number of size-3 frequent patterns= 814
-Number of size-4 frequent patterns= 50
-Total number of frequent patterns = 3596
-=================================================
-min_freq = 0.0005 results:
-Number of size-1 frequent patterns= 440
-Number of size-2 frequent patterns= 1747
-Number of size-3 frequent patterns= 525
-Number of size-4 frequent patterns= 27
-Total number of frequent patterns = 2739
-=================================================
-Total Duration:  47.115571 s
+    min_freq = 0.0001 results:
+    Number of size-1 frequent patterns= 731
+    Number of size-2 frequent patterns= 8200
+    Number of size-3 frequent patterns= 8201
+    Number of size-4 frequent patterns= 1828
+    Number of size-5 frequent patterns= 100
+    Total number of frequent patterns = 19060
+    =================================================
+    min_freq = 0.0002 results:
+    Number of size-1 frequent patterns= 592
+    Number of size-2 frequent patterns= 4564
+    Number of size-3 frequent patterns= 2831
+    Number of size-4 frequent patterns= 359
+    Number of size-5 frequent patterns= 5
+    Total number of frequent patterns = 8351
+    =================================================
+    min_freq = 0.0003 results:
+    Number of size-1 frequent patterns= 527
+    Number of size-2 frequent patterns= 3080
+    Number of size-3 frequent patterns= 1384
+    Number of size-4 frequent patterns= 134
+    Number of size-5 frequent patterns= 1
+    Total number of frequent patterns = 5126
+    =================================================
+    min_freq = 0.0004 results:
+    Number of size-1 frequent patterns= 474
+    Number of size-2 frequent patterns= 2258
+    Number of size-3 frequent patterns= 814
+    Number of size-4 frequent patterns= 50
+    Total number of frequent patterns = 3596
+    =================================================
+    min_freq = 0.0005 results:
+    Number of size-1 frequent patterns= 440
+    Number of size-2 frequent patterns= 1747
+    Number of size-3 frequent patterns= 525
+    Number of size-4 frequent patterns= 27
+    Total number of frequent patterns = 2739
+    =================================================
+    Total Duration:  47.115571 s
